@@ -1,0 +1,18 @@
+AVALIACAO LOGICA - 50 EXERCICIOS
+
+Esta pasta contém exercicio1.js até exercicio50.js.
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Abra o VS Code.
+3. Clique em Arquivo > Abrir Pasta.
+4. Selecione a pasta AVALIACAO_LOGICA_50.
+
+Como preparar e executar:
+1. Abra o terminal do VS Code dentro desta pasta.
+2. Execute: npm init -y
+3. Execute: npm install prompt-sync
+4. Para testar, execute por exemplo: node exercicio1.js
+   Troque o número para executar outro exercício.
+
+Cada arquivo é independente e solicita os dados pelo terminal.
